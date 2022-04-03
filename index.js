@@ -1,1 +1,1 @@
-console.log("hommito se la come");
+console.log("lemus se la traga");
